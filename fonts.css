@@ -1,0 +1,6 @@
+@font-face {
+   font-family: "Adobe Fangsong Std R";
+   src: url("fonts/AdobeFangsongStd-Regular.woff") format("woff"), url("fonts/AdobeFangsongStd-Regular.eot") format("embedded-opentype"), url("fonts/AdobeFangsongStd-Regular.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
